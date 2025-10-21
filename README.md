@@ -10,6 +10,12 @@ I'm a developer from Culiacán, Sinaloa, Mexico. I enjoy building web applicatio
 ### 🌱 Currently Learning  
 - Advanced React/Next.js patterns.  
 - Cloud services and DevOps best practices.  
+### 🔧 Skills & Technologies  
+- TypeScript & JavaScript  
+- Python  
+- CSS & Tailwind  
+- Next.js & React  
+- Node.js & Express
 
 ### 🧑‍💪 Looking to Collaborate On  
 - Open‑source web development projects.  
