@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Joshua Angulo González (LukyPlay)
+          # Hi there 👋 I'm Joshua Angulo González (LukyPlay)
 
 ## 👨‍💻 About Me
 Soy desarrollador full‑stack originario de Culiacán, Sinaloa, México. Disfruto construir aplicaciones web y explorar nuevas tecnologías. Contribuyo en TypeScript, JavaScript, Python y CSS y me apasiona crear soluciones eficientes y escalables. Me gusta mantener mis proyectos bien documentados y con prácticas de ingeniería sólidas.
