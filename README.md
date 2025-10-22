@@ -1,58 +1,61 @@
-          # Hi there 👋 I'm Joshua Angulo González (LukyPlay)
+# ¡Hola! 👋 Soy Joshua Angulo González (LukyPlay)  
+## 👨‍💻 Sobre mí  
+Desarrollador full‑stack de Culiacán, Sinaloa, México. Me apasiona crear aplicaciones web modernas utilizando TypeScript, JavaScript, Python y CSS, siempre con buenas prácticas de ingeniería de software. Disfruto explorar nuevas tecnologías, integrar inteligencia artificial y desarrollar soluciones eficientes y escalables.  
 
-## 👨‍💻 About Me
-Soy desarrollador full‑stack originario de Culiacán, Sinaloa, México. Disfruto construir aplicaciones web y explorar nuevas tecnologías. Contribuyo en TypeScript, JavaScript, Python y CSS y me apasiona crear soluciones eficientes y escalables. Me gusta mantener mis proyectos bien documentados y con prácticas de ingeniería sólidas.
+## 🔍 Buscando nuevas oportunidades  
+Actualmente estoy abierto a trabajar como desarrollador full‑stack, ya sea de forma remota o en México. Me interesa participar en proyectos que utilicen Next.js, React, Node.js y tecnologías de IA/datos.  
 
-## 🧠 Tagline
-*Full‑Stack Developer | TypeScript & Next.js Expert | AI Enthusiast*
+## 🧠 Tagline  
+*Full‑Stack Developer | TypeScript & Next.js Expert | AI Enthusiast*  
 
-## 🔧 Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## 🔧 Tech Stack  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 
-## 🚀 Currently Working On
-- 🧩 **Dashboard Application** – Construyendo una aplicación de panel interactivo con TypeScript y Next.js para visualizar datos en tiempo real y proporcionar insights a usuarios.
-- 🤖 **AI Web Integration** – Experimentando con la integración de IA en aplicaciones web para ofrecer experiencias más personalizadas y eficientes.
+## 🚀 Proyectos actuales  
+- **Dashboard financiero con IA**: Desarrollo de una aplicación web que analiza datos financieros y genera gráficos y predicciones en tiempo real utilizando IA.  
+- **API REST para gestión de tareas**: Servicio construido con Node.js y Express para administrar tareas, con autenticación JWT y soporte para bases de datos SQL y NoSQL.  
 
-## 🌱 Currently Learning
-- Rust y WebAssembly para mejorar el rendimiento en aplicaciones web.
-- Arquitecturas de microservicios y despliegues en la nube.
+## 📚 Actualmente aprendiendo  
+- Nuevas características de **Next.js** para mejorar rendimiento y SSR.  
+- Conceptos de **Machine Learning** aplicados a análisis de datos.  
+- Optimización y despliegue con **Docker** y **CI/CD**.  
 
-## 📌 Featured Projects
-- **[Dashboard App](#)** – Aplicación de panel adaptable construida con Next.js y Tailwind CSS. Permite a los usuarios monitorear métricas en tiempo real con un diseño limpio y responsive.
-- **[AI Integration Demo](#)** – Prototipo de integración de modelos de IA en aplicaciones web para análisis de texto e imágenes.
+## 🌟 Proyectos destacados  
+- **[Mi portfolio personal](https://github.com/LukyPlay/portfolio)**: Sitio web que presenta mis proyectos, artículos y experiencia profesional.  
+- **[Aplicación de Chat con IA](https://github.com/LukyPlay/ai-chat-app)**: Chatbot integrado con un modelo de lenguaje para responder preguntas de los usuarios.  
+- **[CRUD con React y Node.js](https://github.com/LukyPlay/react-node-crud)**: Aplicación CRUD completa con frontend en React y backend en Node.js/Express.  
 
-*Nota: puedes encontrar más proyectos en mis repositorios fijados en mi perfil de GitHub.*
+## ❓ Pregúntame sobre…  
+- Desarrollo full‑stack con TypeScript, Next.js y React  
+- Integración de APIs externas y servicios de IA  
+- Buenas prácticas en diseño de interfaces y experiencia de usuario  
+- Deploy y DevOps con Docker y plataformas cloud  
 
-## 🧠 Ask Me About
-- Desarrollo web full‑stack con TypeScript/JavaScript.
-- Frameworks modernos como Next.js y React.
-- Integración de servicios de IA y APIs.
-- Mejores prácticas de ingeniería de software (CI/CD, testing, documentación).
+## 📫 Cómo contactarme  
+Puedes encontrarme en:  
+- LinkedIn: [linkedin.com/in/joshuaangulo](https://www.linkedin.com/in/joshuaangulo)  
+- Correo: [tu-email@example.com](mailto:tu-email@example.com)  
+- Twitter: [@LukyPlayDev](https://twitter.com/LukyPlayDev)  
 
-## 📨 How to Reach Me
-Puedes ponerte en contacto conmigo a través de:
-- [LinkedIn](#)  
-- Correo electrónico: <tu correo aquí>  
+## 🎉 Dato curioso  
+Además de programar, me encanta la fotografía y la música; siempre estoy buscando nuevas experiencias creativas.  
 
-*(Reemplaza con tu información de contacto preferida.)*
+## 🏆 Trofeos de GitHub  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LukyPlay&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)  
 
-## 🎉 Fun Fact
-Me encanta explorar nuevos lenguajes y frameworks, y siempre estoy listo para enfrentar un desafío de programación.
+## 📊 Estadísticas de GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukyPlay&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukyPlay&layout=compact&theme=github_dark)  
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=LukyPlay&theme=algolia&row=1&margin-w=15&no-bg=true)
-
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukyPlay&layout=compact)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukyPlay&show_icons=true&hide=stars,issues)
-
-## 🕒 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=LukyPlay&style=flat&color=blue)
+## 👥 Contador de visitas  
+![Visitors](https://komarev.com/ghpvc/?username=LukyPlay&style=flat&color=blue)
