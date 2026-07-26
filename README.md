@@ -1,58 +1,52 @@
-# ¡Hola, soy Joshua! 👋
+# Joshua Angulo González
 
-## Sobre mí
-Soy desarrollador full-stack apasionado con más de X años de experiencia. Disfruto crear aplicaciones modernas con TypeScript, Next.js, React y otras tecnologías. Resido en Culiacán, Sinaloa, México, y estoy buscando oportunidades para unirme a un equipo innovador.
+**Software Engineer — Backend, Full-Stack y Datos** · Culiacán, Sinaloa, México
 
-## 🎮 Buscando nuevas oportunidades
-Actualmente busco oportunidades como desarrollador full-stack remoto o en México, donde pueda trabajar en proyectos relacionados con tecnologías web, IA y cloud computing.
+Construyo productos completos, del diseño a producción: APIs REST, plataformas multi-tenant, sistemas distribuidos en tiempo real y pipelines de datos de gran volumen. Trabajo con seguridad, pruebas automatizadas y observabilidad desde el diseño, no como un añadido al final.
 
-## 🛠️ Tech Stack
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
-![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express Badge](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+## Stack
 
-## 🚧 Proyectos actuales
-- **Dashboard financiero**: Un dashboard para visualizar datos financieros, con gráficos y tablas actualizados.
-- **API REST de gestión**: Servicio backend con Node.js/Express para gestionar una base de datos relacional.
+- **Lenguajes** · TypeScript · JavaScript · Python · SQL · Rust
+- **Backend** · Node.js · Express · APIs REST · OAuth 2.0 y JWT · SSE y WebSockets · colas de trabajo · sistemas distribuidos
+- **Datos** · PostgreSQL · Supabase · MongoDB · Redis · DuckDB · Polars · Parquet
+- **Frontend** · React · Next.js · Vite · Tailwind CSS
+- **Infraestructura** · Docker · Linux · AWS · GitHub Actions · CI/CD
+- **Calidad y observabilidad** · Vitest · Playwright · OpenTelemetry · Sentry · Prometheus
+- **IA y ML** · agentes LLM · tool calling · RAG y embeddings · XGBoost · CatBoost · scikit-learn
 
-## 📚 Actualmente aprendiendo
-- Nuevas características de **Next.js** para mejorar rendimiento y SSR.
-- Conceptos de **Machine Learning** aplicados a análisis de datos.
-- Optimización y despliegue con **Docker** y **CI/CD**.
+## En qué trabajo
 
-## 🌟 Proyectos destacados
-- **[Mi portfolio personal](https://github.com/LukyPlay/portfolio)**: Sitio web que presenta mis proyectos, artículos y experiencia profesional.
-- **[Aplicación de Chat con IA](https://github.com/LukyPlay/ai-chat-app)**: Chatbot integrado con un modelo de lenguaje para responder preguntas de los usuarios.
-- **[CRUD con React y Node.js](https://github.com/LukyPlay/react-node-crud)**: Aplicación CRUD completa con frontend en React y backend en Node.js/Express.
+Los dos proyectos que sostienen mi experiencia están en repositorios privados: uno es producto propio en desarrollo y el otro contiene estrategia propia. Puedo recorrer arquitectura, decisiones y código en una entrevista.
 
-## ❓ Pregúntame sobre…
-- Desarrollo full‑stack con TypeScript, Next.js y React
-- Integración de APIs externas y servicios de IA
-- Buenas prácticas en diseño de interfaces y experiencia de usuario
-- Deploy y DevOps con Docker y plataformas cloud
+### LuckAI — plataforma SaaS multi-tenant de agentes de IA · 2025 – presente
 
-## 📫 Cómo contactarme
-Puedes encontrarme en:
-- LinkedIn: [linkedin.com/in/joshuaangulo](https://www.linkedin.com/in/joshuaangulo)
-- Correo: [tu-email@example.com](mailto:tu-email@example.com)
-- Twitter: [@LukyPlayDev](https://twitter.com/LukyPlayDev)
+Monorepo de 10 workspaces: API en Express, dashboard React/Vite, portal Next.js y un runtime de agentes en contenedores, sobre PostgreSQL/Supabase, MongoDB y Redis.
 
-## 🎉 Dato curioso
-Además de programar, me encanta la fotografía y la música; siempre estoy buscando nuevas experiencias creativas.
+- Aislamiento de datos por cliente con SSO/OAuth 2.0, RBAC y 31 políticas RLS.
+- 1,066 pruebas automatizadas: 619 de API, 371 unitarias y de UI, 76 E2E.
+- CI/CD en GitHub Actions con CodeQL y revisión de dependencias; una auditoría de modernización llevó de 155 a 0 las vulnerabilidades conocidas en dependencias de producción.
+- Integraciones con Stripe, WhatsApp Business API, Google Calendar y AWS S3 mediante webhooks idempotentes, instrumentadas con OpenTelemetry, Sentry y Prometheus.
 
-## 🏆 Trofeos de GitHub
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LukyPlay&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+### Plataforma cuantitativa para mercados electrónicos · 2026 – presente
 
-## 📊 Estadísticas de GitHub
-![Contribuciones (último año)](https://img.shields.io/badge/Contribuciones%20(en%20el%20%C3%9Altimo%20a%C3%B1o)-1424%2B-blue)
+Runtime asíncrono en Rust (Tokio) que consume WebSockets en tiempo real, reconstruye libros de órdenes con aritmética decimal exacta y decide bajo restricciones de latencia.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukyPlay&show_icons=true&include_all_commits=true&count_private=true&theme=algolia)
+- Pipeline de investigación en Python con Parquet, Polars y DuckDB sobre decenas de millones de registros de series temporales; modelos tabulares con XGBoost, CatBoost y LightGBM.
+- Disciplina de auditoría: validación walk-forward, control de fuga temporal, manifiestos SHA-256, pruebas negativas de integridad y paridad de resultados entre Python y Rust.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukyPlay&layout=compact&theme=algolia)
+## Formación
 
-![Profile views](https://komarev.com/ghpvc/?username=LukyPlay&label=Profile%20Views&color=blue)
+- **Ingeniería Industrial, titulado** — Universidad Tecmilenio, Campus Culiacán · 2021 – 2025
+- **Materias de posgrado en Ciencias de la Computación** — Universidad Autónoma de Sinaloa
+- Español nativo · **inglés C1**
+
+## Contacto
+
+Abierto a posiciones de backend o full-stack, en México o remoto.
+
+- [linkedin.com/in/joshuaangulogonzalez](https://www.linkedin.com/in/joshuaangulogonzalez/)
+- [joshuaangulo10@gmail.com](mailto:joshuaangulo10@gmail.com)
+
+---
+
+**In English.** I'm a software engineer working across backend, full-stack and data. I build products end to end — REST APIs, multi-tenant platforms, real-time distributed systems and high-volume data pipelines in TypeScript/Node.js, Python and Rust — with security, automated testing and observability designed in from the start. Most of my work lives in private repositories; I'm glad to walk through the architecture and the code in an interview.
