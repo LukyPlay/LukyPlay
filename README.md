@@ -20,6 +20,8 @@ Los dos proyectos que sostienen mi experiencia están en repositorios privados: 
 
 **→ [case-studies](https://github.com/LukyPlay/case-studies)** — notas de ingeniería sanitizadas: qué se construyó, qué decisiones lo sostienen y qué haría distinto.
 
+**→ [multi-tenant-rls](https://github.com/LukyPlay/multi-tenant-rls)** — código ejecutable: aislamiento entre clientes con Row Level Security en PostgreSQL, con 16 pruebas en su mayoría negativas y verificación por mutación.
+
 ### LuckAI — plataforma SaaS multi-tenant de agentes de IA · 2025 – presente
 
 Monorepo de 10 workspaces: API en Express, dashboard React/Vite, portal Next.js y un runtime de agentes en contenedores, sobre PostgreSQL/Supabase, MongoDB y Redis.
