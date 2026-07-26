@@ -18,9 +18,9 @@ Construyo productos completos, del diseño a producción: APIs REST, plataformas
 
 Los dos proyectos que sostienen mi experiencia están en repositorios privados: uno es producto propio en desarrollo y el otro contiene estrategia propia. La arquitectura y las decisiones de ambos sí están escritas y son públicas:
 
-**→ [case-studies](https://github.com/LukyPlay/case-studies)** — notas de ingeniería sanitizadas: qué se construyó, qué decisiones lo sostienen y qué haría distinto.
+**→ [case-studies](https://github.com/joshua-angulo/case-studies)** — notas de ingeniería sanitizadas: qué se construyó, qué decisiones lo sostienen y qué haría distinto.
 
-**→ [multi-tenant-rls](https://github.com/LukyPlay/multi-tenant-rls)** — código ejecutable: aislamiento entre clientes con Row Level Security en PostgreSQL, con 16 pruebas en su mayoría negativas y verificación por mutación.
+**→ [multi-tenant-rls](https://github.com/joshua-angulo/multi-tenant-rls)** — código ejecutable: aislamiento entre clientes con Row Level Security en PostgreSQL, con 16 pruebas en su mayoría negativas y verificación por mutación.
 
 ### LuckAI — plataforma SaaS multi-tenant de agentes de IA · 2025 – presente
 
