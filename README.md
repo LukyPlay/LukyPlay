@@ -16,7 +16,9 @@ Construyo productos completos, del diseño a producción: APIs REST, plataformas
 
 ## En qué trabajo
 
-Los dos proyectos que sostienen mi experiencia están en repositorios privados: uno es producto propio en desarrollo y el otro contiene estrategia propia. Puedo recorrer arquitectura, decisiones y código en una entrevista.
+Los dos proyectos que sostienen mi experiencia están en repositorios privados: uno es producto propio en desarrollo y el otro contiene estrategia propia. La arquitectura y las decisiones de ambos sí están escritas y son públicas:
+
+**→ [case-studies](https://github.com/LukyPlay/case-studies)** — notas de ingeniería sanitizadas: qué se construyó, qué decisiones lo sostienen y qué haría distinto.
 
 ### LuckAI — plataforma SaaS multi-tenant de agentes de IA · 2025 – presente
 
