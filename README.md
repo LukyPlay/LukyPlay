@@ -2,7 +2,7 @@
 
 **Software Engineer — Backend, Full-Stack y Datos** · Culiacán, Sinaloa, México
 
-Construyo productos completos, del diseño a producción: APIs REST, plataformas multi-tenant, sistemas distribuidos en tiempo real y pipelines de datos de gran volumen. Trabajo con seguridad, pruebas automatizadas y observabilidad desde el diseño, no como un añadido al final.
+Convierto necesidades operativas en productos digitales de punta a punta: APIs REST, plataformas multi-tenant, sistemas distribuidos en tiempo real y pipelines de datos a gran escala. Integro seguridad, validación y observabilidad desde el diseño, no como un añadido al final.
 
 ## Stack
 
@@ -22,7 +22,7 @@ Los dos proyectos que sostienen mi experiencia están en repositorios privados: 
 
 **→ [multi-tenant-rls](https://github.com/joshua-angulo/multi-tenant-rls)** — código ejecutable: aislamiento entre clientes con Row Level Security en PostgreSQL, con 16 pruebas en su mayoría negativas y verificación por mutación.
 
-### LuckAI — plataforma SaaS multi-tenant de agentes de IA · 2025 – presente
+### LuckAgents — plataforma SaaS multi-tenant de agentes de IA · 2025 – presente
 
 Monorepo de 10 workspaces: API en Express, dashboard React/Vite, portal Next.js y un runtime de agentes en contenedores, sobre PostgreSQL/Supabase, MongoDB y Redis.
 
@@ -33,7 +33,7 @@ Monorepo de 10 workspaces: API en Express, dashboard React/Vite, portal Next.js 
 
 ### Plataforma cuantitativa para mercados electrónicos · 2026 – presente
 
-Runtime asíncrono en Rust (Tokio) que consume WebSockets en tiempo real, reconstruye libros de órdenes con aritmética decimal exacta y decide bajo restricciones de latencia.
+Runtime asíncrono en Rust (Tokio) que consume WebSockets en tiempo real, reconstruye libros de órdenes y usa aritmética decimal en los cálculos monetarios.
 
 - Pipeline de investigación en Python con Parquet, Polars y DuckDB sobre decenas de millones de registros de series temporales; modelos tabulares con XGBoost, CatBoost y LightGBM.
 - Disciplina de auditoría: validación walk-forward, control de fuga temporal, manifiestos SHA-256, pruebas negativas de integridad y paridad de resultados entre Python y Rust.
